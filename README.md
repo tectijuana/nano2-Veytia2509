@@ -26,17 +26,16 @@ Resulta conveniente observar los siguientes principios al realizar una depuraci�
 Un diagrama de flujo es la representación gráfica de un algoritmo. También se puede decir que es la representación detallada en forma gráfica de como deben realizarse los pasos en la computadora para producir resultados.
 
 Esta representación gráfica se da cuando varios símbolos (que indican diferentes procesos en la computadora), se relacionan entre si mediante líneas que indican el orden en que se deben ejecutar los procesos. Los símbolos utilizados han sido normalizados por el instituto norteamericano de normalización (ANSI):
-# Símbolo                                              Descripción
-![](https://desarrolloweb.com/articulos/images/algoritmos/cuadrado.gif Indica el inicio y el final de nuestro diagrama de flujo.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo2.gif Indica la entrada y salida de datos.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo3.gif Símbolo de proceso y nos indica la asignación de un valor en la memoria y/o la ejecución de una operación aritmética.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo4.gif Indica la salida de información por impresora.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo5.gif Conector dentro de página. Representa la continuidad del diagrama dentro de la misma página.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo6.gif Conector fuera de pagina. Representa la continuidad del diagrama en otra pagina.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo7.gif 	Indica la salida de información en la pantalla o monitor.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_decision.gif Símbolo de decisión. Indica la realización de una comparación de valores.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_seleccion.gif Símbolo de Selección Múltiple. Dada una expresión permite escoger una opción de muchas.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_mientras.gif 	Símbolo del Mientras. Dada una expresión al principio de la iteración esta es evaluada; si la condición es verdadera realizará el ciclo, si es falsa la repetición cesará.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_para.gif 	Símbolo del Para. Esta estructura de control repetitiva se usa generalmente cuando se conoce de antemano el numero de iteraciones.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_repita.gif Símbolo Repita Hasta. funciona igual que la estructura Mientras, con la diferencia que al menos una vez hará el grupo de instrucciones y luego evaluará una condición. Si la condición evaluada es falsa continua dentro del ciclo y si es verdadera termina la iteración.
-![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_lineas.gif 	Líneas de flujo o dirección. Indican la secuencia en que se realizan las operaciones.
+![](https://desarrolloweb.com/articulos/images/algoritmos/cuadrado.gif) Indica el inicio y el final de nuestro diagrama de flujo.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo2.gif) Indica la entrada y salida de datos.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo3.gif) Símbolo de proceso y nos indica la asignación de un valor en la memoria y/o la ejecución de una operación aritmética.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo4.gif) Indica la salida de información por impresora.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo5.gif) Conector dentro de página. Representa la continuidad del diagrama dentro de la misma página.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo6.gif) Conector fuera de pagina. Representa la continuidad del diagrama en otra pagina.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo7.gif) 	Indica la salida de información en la pantalla o monitor.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_decision.gif) Símbolo de decisión. Indica la realización de una comparación de valores.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_seleccion.gif) Símbolo de Selección Múltiple. Dada una expresión permite escoger una opción de muchas.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_mientras.gif) 	Símbolo del Mientras. Dada una expresión al principio de la iteración esta es evaluada; si la condición es verdadera realizará el ciclo, si es falsa la repetición cesará.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_para.gif) 	Símbolo del Para. Esta estructura de control repetitiva se usa generalmente cuando se conoce de antemano el numero de iteraciones.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_repita.gif) Símbolo Repita Hasta. funciona igual que la estructura Mientras, con la diferencia que al menos una vez hará el grupo de instrucciones y luego evaluará una condición. Si la condición evaluada es falsa continua dentro del ciclo y si es verdadera termina la iteración.
+![](https://desarrolloweb.com/articulos/images/algoritmos/simbolo_lineas.gif) 	Líneas de flujo o dirección. Indican la secuencia en que se realizan las operaciones.
